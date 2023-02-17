@@ -52,7 +52,7 @@ Python'da ta-lib kütüphanesini kullanabilmek için Python bağlantılarını (
 
     pip install TA-Lib
 
-Python bağlantılarını yükledikten sonra, **mport talib** ifadesini kullanarak kütüphaneyi Python projenize dahil edebilirsiniz.
+Python bağlantılarını yükledikten sonra, **import talib** ifadesini kullanarak kütüphaneyi Python projenize dahil edebilirsiniz.
 
 Umarım bu yazı sayesinde sorununuzu çözmüş olursunuz. 
 
